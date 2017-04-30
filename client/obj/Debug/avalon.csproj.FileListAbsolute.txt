@@ -1,0 +1,33 @@
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\RestSharp.dll
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\RestSharp.xml
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\avalon.exe.config
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\avalon.exe
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\bin\Debug\avalon.pdb
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\obj\Debug\avalon.exe
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\obj\Debug\avalon.pdb
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\comm\obj\Debug\avalon.csprojResolveAssemblyReference.cache
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\client\bin\Debug\avalon.exe.config
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\client\obj\Debug\avalon.exe
+C:\Users\korlev\Documents\Visual Studio 2015\Projects\avalon\client\obj\Debug\avalon.pdb
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\avalon.exe.config
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\avalon.exe
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\avalon.pdb
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\RestSharp.dll
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\bin\Debug\RestSharp.xml
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\obj\Debug\avalon.exe
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\obj\Debug\avalon.pdb
+C:\Users\edenlev\Documents\Visual Studio 2015\Projects\avalon-cs\avalon\client\obj\Debug\avalon.csprojResolveAssemblyReference.cache
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\avalon.exe.config
+C:\Users\edenlev\Documents\avalon\client\obj\Debug\avalon.exe
+C:\Users\edenlev\Documents\avalon\client\obj\Debug\avalon.pdb
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\avalon.exe
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\avalon.pdb
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\RestSharp.dll
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edenlev\Documents\avalon\client\bin\Debug\RestSharp.xml
+C:\Users\edenlev\Documents\avalon\client\obj\Debug\avalon.csprojResolveAssemblyReference.cache

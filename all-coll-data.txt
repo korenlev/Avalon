@@ -1,0 +1,178 @@
+//mission
+
+
+{
+
+    "active_game" : "game1",
+
+    "name" : "game1mission1",
+
+    "mission" : NumberInt(1),       
+
+    "vote" : NumberInt(3),
+
+    "fail_factor" : NumberInt(1),
+
+    "leader" : "avra",
+
+    "team" : [
+
+        "eden",
+
+        "koren",
+
+        "avra"
+
+    ],
+
+    "team_count" : NumberInt(3),
+
+    "excalibur_user" : "avra",
+
+    "excalibur_effected" : "eden",
+
+    "failure" : NumberInt(1),
+
+    "success" : NumberInt(2),
+
+    "result" : "fail",
+
+    "team_approved" : true
+
+}
+
+
+//game
+
+
+{
+
+    "name" : "game3",
+
+    "active" : true,
+
+    "status" : "ceremony",
+
+    "players" : [
+
+        "eden",
+
+        "koren",
+
+        "avra",
+
+        "john",
+
+        "nikol"
+
+    ],
+
+    "variant" : {
+
+        "mordred" : true,
+
+        "oberon" : false,
+
+        "morgana" : false,
+
+        "percival" : false,
+
+        "lady" : false,
+
+        "excalibur" : false
+
+    },
+
+    "winners" : "evil",
+
+    "assassin" : "eden",
+
+    "assassin_kill" : "",
+
+    "is_merlin" : false,
+
+    "game_password" : "12345",
+
+    "NumberOfPlayers" : NumberInt(5)
+
+}
+
+ 
+//player
+
+ 
+{
+
+    "role" : "good",
+
+    "client_type" : "android",
+
+    "name" : "eden",
+
+    "password" : "mypass",
+
+    "location" : "israel",
+
+    "online" : true,
+
+    "active_game" : "game1",
+
+    "member" : "good",
+
+    "is_leader" : true,
+
+    "votes" : {
+
+        "m1v1" : "no",
+
+        "m1v2" : "no",
+
+        "m1v3" : "no",
+
+        "m1v4" : "no",
+
+        "m1v5" : "no",
+
+        "m2v1" : "no",
+
+        "m2v2" : "no",
+
+        "m2v3" : "no",
+
+        "m2v4" : "no",
+
+        "m2v5" : "no",
+
+        "m3v1" : "no",
+
+        "m3v2" : "no",
+
+        "m3v3" : "no",
+
+        "m3v4" : "no",
+
+        "m3v5" : "no",
+
+        "m4v1" : "no",
+
+        "m4v2" : "no",
+
+        "m4v3" : "no",
+
+        "m4v4" : "no",
+
+        "m4v5" : "no",
+
+        "m5v1" : "no",
+
+        "m5v2" : "no",
+
+        "m5v3" : "no",
+
+        "m5v4" : "no",
+
+        "m5v5" : "no"
+
+    }
+
+}
