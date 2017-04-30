@@ -13,7 +13,7 @@ namespace avalon
         {
             // this is for test ...
             comm g = new comm();
-            generic c = new generic("what do you think? test", "y", "");
+            generic c = new generic("what do you think?", "y", "");
             Console.WriteLine(c.gg());
             coll stam_game = g.GET("Games", "g");
             Console.WriteLine(stam_game.players[3]);
