@@ -1,0 +1,239 @@
+//mission
+
+
+{ 
+    "_id" : ObjectId("58ecdbadf3dabe6d105ede3d"), 
+    "_updated" : ISODate("2017-04-11T13:35:41.000+0000"), 
+    "failure" : NumberInt(0), 
+    "name" : "this_game-m1", 
+    "success" : NumberInt(2), 
+    "_created" : ISODate("2017-04-11T13:35:41.000+0000"), 
+    "active_game" : "this_game", 
+    "mission" : NumberInt(1), 
+    "result" : "success"
+}
+
+
+//game
+
+{ 
+    "_id" : ObjectId("58f4761ff3dabe6d105ede46"), 
+    "previous_leaders" : [
+        "koren", 
+        "nikol", 
+        "eden", 
+        "noia"
+    ], 
+    "status" : "finished", 
+    "team_approved" : false, 
+    "team" : [ "koren", nikol"
+    ], 
+    "variant" : {
+        "excalibur" : false, 
+        "mordred" : false, 
+        "morgana" : false, 
+        "percival" : false, 
+        "oberon" : false, 
+        "lady" : false
+    }, 
+    "mission" : NumberInt(2), 
+    "active" : true, 
+    "previous_missions" : [
+        NumberInt(1), 
+        NumberInt(3), 
+        NumberInt(2)
+    ], 
+    "_created" : ISODate("2017-04-17T08:00:31.000+0000"), 
+    "NumberOfPlayers" : NumberInt(5), 
+    "is_merlin" : true, 
+    "vote" : NumberInt(1), 
+    "assassin_kill" : "eden", 
+    "_updated" : ISODate("2017-04-17T08:09:07.000+0000"), 
+    "merlin" : "eden", 
+    "fail_factor" : NumberInt(1), 
+    "excalibur_user" : "none", 
+    "name" : "this_game", 
+    "players" : [
+        "yaron", 
+        "koren", 
+        "noia", 
+        "nikol", 
+        "eden"
+    ], 
+    "excalibur_effected" : "none", 
+    "winners" : "evil", 
+    "game_password" : "v", 
+    "team_count" : NumberInt(1), 
+    "assassin" : "yaron",
+    "leader" : "yaron"
+}
+
+ 
+//players
+
+ 
+{
+  "_updated": "Mon, 17 Apr 2017 08:09:10 GMT",
+  "votes": {
+  "c1m1v1" : True
+  "c1m2v1" : False
+  },
+  "password": "1234",
+  "name": "nikol",
+  "quests": {
+  "m1q": True
+  },
+  "number": 1,
+  "member": "evil",
+  "client_type": "android",
+  "role": "evil",
+  "location": "isr",
+  "online": true,
+  "_created": "Mon, 10 Apr 2017 14:03:59 GMT",
+  "_id": "58eb90cff3dabe63332ec9c1",
+  "active_game": "this_game",
+  "is_leader": false
+}
+
+//Boards
+
+{ 
+    "_id" : ObjectId("58ff7d4d12eff1a4e7ef9380"), 
+    "name" : "g", 
+    "vote" : NumberInt(1), 
+    "is_merlin" : false, 
+    "winners" : "good", 
+    "game_password" : "g", 
+    "players_online_status" : {
+        "eden" : true, 
+        "koren" : true, 
+        "noia" : true, 
+        "nikol" : true, 
+        "yaron" : true
+    }, 
+    "players_memberships" : {
+        "eden" : "good", 
+        "koren" : "good", 
+        "noia" : "good", 
+        "nikol" : "evil", 
+        "yaron" : "evil"
+    }, 
+    "players_roles" : {
+        "eden" : "merlin", 
+        "koren" : "good", 
+        "noia" : "good", 
+        "nikol" : "evil", 
+        "yaron" : "assassin"
+    }, 
+    "players_votes" : {
+        "eden" : {
+
+        }, 
+        "koren" : {
+
+        }, 
+        "noia" : {
+
+        }, 
+        "nikol" : {
+
+        }, 
+        "yaron" : {
+
+        }
+    }, 
+    "variant" : {
+        "excalibur" : false, 
+        "mordred" : false, 
+        "oberon" : false, 
+        "lady" : false, 
+        "morgana" : false, 
+        "percival" : false
+    }, 
+    "excalibur_user" : "none", 
+    "players_numbers" : {
+        "eden" : NumberInt(2), 
+        "koren" : NumberInt(0), 
+        "noia" : NumberInt(3), 
+        "nikol" : NumberInt(1), 
+        "yaron" : NumberInt(4)
+    }, 
+    "missions_failures" : {
+        "g-m1" : NumberInt(0), 
+        "g-m3" : NumberInt(0), 
+        "g-m2" : NumberInt(0)
+    }, 
+    "assassin" : "eden", 
+    "players_leaders" : {
+        "eden" : false, 
+        "koren" : false, 
+        "noia" : false, 
+        "nikol" : false, 
+        "yaron" : true
+    }, 
+    "assassin_kill" : "yaron", 
+    "active" : true, 
+    "missions_results" : {
+        "g-m1" : "success", 
+        "g-m3" : "success", 
+        "g-m2" : "success"
+    }, 
+    "team_count" : NumberInt(1), 
+    "team_approved" : false, 
+    "missions_successes" : {
+        "g-m1" : NumberInt(2), 
+        "g-m3" : NumberInt(2), 
+        "g-m2" : NumberInt(3)
+    }, 
+    "NumberOfPlayers" : NumberInt(5), 
+    "suggest_mission" : NumberInt(3), 
+    "previous_missions" : [
+        NumberInt(1), 
+        NumberInt(2), 
+        NumberInt(3)
+    ], 
+    "players_quests" : {
+        "eden" : {
+
+        }, 
+        "koren" : {
+
+        }, 
+        "noia" : {
+
+        }, 
+        "nikol" : {
+
+        }, 
+        "yaron" : {
+
+        }
+    }, 
+    "previous_leaders" : [
+        "noia", 
+        "nikol", 
+        "eden"
+    ], 
+    "merlin" : "koren", 
+    "excalibur_effected" : "none", 
+    "status" : "game", 
+    "leader" : "nikol", 
+    "players_locations" : {
+        "eden" : "ds", 
+        "koren" : "ds", 
+        "noia" : "sdf", 
+        "nikol" : "isr", 
+        "yaron" : "isr"
+    }, 
+    "players_client_types" : {
+        "eden" : "pc", 
+        "koren" : "pc", 
+        "noia" : "pc", 
+        "nikol" : "android", 
+        "yaron" : "pc"
+    }, 
+    "team" : [
+
+    ], 
+    "fail_factor" : NumberInt(1)
+}
