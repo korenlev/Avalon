@@ -19,7 +19,7 @@ namespace avalon
             Console.WriteLine(stam_game.players[3]);
             Console.Read();
             // test ends here ...
-
+            //jjj
             players p = new players();
             Tuple<string, string, bool> player = p.check();
             Console.WriteLine(player.Item1);
