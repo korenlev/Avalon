@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 namespace avalon
 {
-    class players   // game extensions in use
+    class players   // example on using Tuple !
     {
         public players()
         {
